@@ -1,4 +1,9 @@
 ## Synopsis
 This repo contains the components for lab 1 for the SEG 4105 course.
-Name: Jason You
-Student #: 300056239
+
+## Contributors
+- Name: Jason You
+- Student #: 300056239
+
+## License
+This project has the MIT license
