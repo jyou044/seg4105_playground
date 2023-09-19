@@ -18,9 +18,13 @@
 - communication is key
 - be good at evaluating trade offs
 - be open to change, never stick to the first iteration of a software/idea things can always be improved
+- Efficiently allocating and monitoring project resources ensures cost-effectiveness.
+- Regular feedback cycles with the team lead to enhanced project outcomes.
+- Good at working with tools like Trello or JIRA to streamline task organization
 
 ## Article References
 - https://www.pmi.org/about/learn-about-pmi/who-are-project-managers
 - https://www.geeksforgeeks.org/software-engineering-project-management-process/
 - https://www.coursera.org/articles/what-is-project-manager
 - https://www.atlassian.com/project-management
+- https://www.smartsheet.com/blog/essential-project-management-skills
