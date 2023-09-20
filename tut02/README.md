@@ -2,7 +2,7 @@
 - This folder contains the blog required for tutorial 2 of the SEG4105 course.
 # Collaborators
 - Jason You (300056239)
-- Ranbir Brar
+- Ranbir Brar (300116072)
 - Yasser Alnader
 
 # Shape up (Chapter 2-5) Summary
