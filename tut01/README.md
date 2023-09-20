@@ -3,7 +3,7 @@
 # Collaborators
 - Jason You (300056239)
 - Ranbir Brar
-- Yasser Alnader
+- Yasser Alnader (300072599)
 
 ## Brainstorming
 - PMs make sure team stays on track to complete work (coursera)
