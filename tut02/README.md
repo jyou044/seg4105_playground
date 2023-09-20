@@ -3,7 +3,7 @@
 # Collaborators
 - Jason You (300056239)
 - Ranbir Brar (300116072)
-- Yasser Alnader
+- Yasser Alnader (300072599)
 
 # Shape up (Chapter 2-5) Summary
 ## Chapter 2 Summary
