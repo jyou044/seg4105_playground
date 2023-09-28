@@ -2,6 +2,8 @@
 - This is the 2nd lab for the SEG 4105 course.
 ## Contributors
 - Jason You (300056239)
+- Ranbir Brar (300116072)
+- Yasser Alnader (300072599)
 
 
 ## Basecamp link
