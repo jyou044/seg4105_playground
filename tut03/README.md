@@ -2,6 +2,8 @@
 - This is the tutorial 3 of the SEG4105 class
 # Contributors
 - Jason You (300056239)
+- Ranbir Brar (300116072)
+- Yasser Alnader (300072599)
 
 # Summary of podcast
 - "Shape Up" is 37signals' philosophy of product development, emphasizing a structured approach to building software products. At the core of this methodology is the concept of a "pitch." A pitch is a concise document, typically around 800 words, that serves as a directional statement, outlining the problem to be solved and proposing a high-level solution. It is not a detailed specification but rather a starting point, allowing room for creative problem-solving during development. Pitches are informed by customer feedback and aim to add features or improvements to a product.
