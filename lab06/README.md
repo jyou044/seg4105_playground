@@ -4,7 +4,6 @@
 - Jason You (300056239)
 
 # Scopes
-- Find map
 - Add map
 - Add zooming feature
 - Integration with app
