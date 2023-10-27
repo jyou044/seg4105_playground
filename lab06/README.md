@@ -14,5 +14,6 @@
 - Test map quality
 - Integrate map in app
 - Pilot Study
-
-![Hill Chart](./hillchart.png)
+![Hill Chart Initial](./hillchart01.jpg)
+![Hill Chart one task](./hillchart.png)
+![Hill Chart three task](./hillchart02.jpg)
