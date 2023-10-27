@@ -16,4 +16,4 @@
 - Pilot Study
 ![Hill Chart Initial](./hillchart01.jpg)
 ![Hill Chart one task](./hillchart.png)
-![Hill Chart three task](./hillchart02.jpg)
+![Hill Chart three task](./hillchart03.jpg)
